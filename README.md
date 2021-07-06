@@ -1,2 +1,2 @@
-# focus-cli
+# focus-cl
 Focus App client
